@@ -1,0 +1,5 @@
+flask
+g4f
+gunicorn
+requests
+pillow
